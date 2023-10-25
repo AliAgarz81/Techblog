@@ -11,4 +11,6 @@ JWT_TOKEN = anystring
 MONGO_URL = mongodb+srv://(username here):(password here)@cluster0.xsqjx5m.mongodb.net/(Db name here)?retryWrites=true&w=majority
 NODE_ENV = development
 
+Create "uploads" folder for uploading images.
+
 Type "npm run dev" on command line for starting development environment.
