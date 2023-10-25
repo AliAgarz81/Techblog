@@ -1,5 +1,7 @@
 # Techblog
 MERN Stack Blog App
+This app has Restful Api hierarchy, you will need Postman or other api testing programs for observing routes.
+
 Using technologies: ExpressJs (Main backend framework), Mongoose(Connecting database), Bcrypt(hash password), Multer(image uploading), Helmet, Mongo-Sanitizer (security middlewares), 
 Cors (for CORS policy to connect frontend to backend), JsonWebToken (Token sign algorithm for users), Dotenv(reading .env file), Cookie-parser (Creating and saving cookies).  
 
